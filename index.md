@@ -1,8 +1,8 @@
 ## Chandan's Log
 
 ### Java
-- [Java 9 Features](java/java9_features)
-- [Java 10 Features](java/java10_features)
+- [Java 9 Features](java/java9_features.md)
+- [Java 10 Features](java/java10_features.md)
 
 
 #### References 
