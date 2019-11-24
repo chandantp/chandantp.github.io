@@ -6,3 +6,4 @@ relative_links:
   collections: true
 include:
   - java/java9_features.md
+  - java/java10_features.md
