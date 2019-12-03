@@ -1,18 +1,35 @@
-# Constructing Collections
+# Constructing Collections in Java, Kotlin
 
-Java 9 provides factory methods for constructing `immutable` collections.
-Any attempt to add, set, or remove elements from these collections causes an `UnsupportedOperationException` to be thrown.
-
+### Java
+##### Immutable Collections
+- Java 9 provides factory methods for constructing `immutable` collections.
+- Any attempt to add, set, or remove elements from these collections causes an `UnsupportedOperationException` to be thrown.
+- [This article](https://docs.oracle.com/javase/9/core/creating-immutable-lists-sets-and-maps.htm) explains how immutable collections created using these factory methods are different from collections created using `Collections.unmodifiable*` wrappers and also space efficiency of such collections.
 ```
 var list = List.of(1,2,3)
-list ==> [1, 2, 3]
-
 var set = Set.of(1,2,3)
-set ==> [1, 2, 3]
-
 var map = Map.of("foo", "a", "bar", "b", "baz", "c")
-map ==> {bar=b, baz=c, foo=a}
 
+```
+
+##### Mutable Collections
+```
+???
+```
+
+### Kotlin
+##### Immutable Collections
+```
+val numbers = listOf("one", "two", "three", "four")
+val numbers = setOf(1, 2, 3, 4)
+val numbersMap = mapOf("key1" to 1, "key2" to 2, "key3" to 3, "key4" to 1)
+
+```
+##### Mutable Collections
+```
+val numbers = mutableListOf("one", "two", "three", "four")
+val numbers = mutableSetOf(1, 2, 3, 4)
+val numbersMap = mutableMapOf("one" to 1, "two" to 2)
 ```
 
 ### Access Operations
@@ -28,8 +45,4 @@ set.get(2)
 map.get("foo")
 $8 ==> "a"
 ```
-
-Notes
-- Refer to https://docs.oracle.com/javase/9/core/creating-immutable-lists-sets-and-maps.htm for details on how immutable collections created using above factory methods are different
-from collections created using `Collections.unmodifiable*` wrappers and about space efficiency.
 
