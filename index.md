@@ -7,4 +7,4 @@
 
 ### Scala
 - [Type Constructors, Higher Kinded Types etc.](scala/hkt.html)
-- [For Comprehensions - Syntactic sugar for flatMap/map](forcomp.html)
+- [For Comprehensions - Syntactic sugar for flatMap/map](scala/forcomp.html)
