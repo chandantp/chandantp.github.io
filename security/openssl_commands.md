@@ -8,7 +8,7 @@ OpenSSL 1.0.2k-fips  26 Jan 2017
 
 #### Certificate Signing Request(CSR) & Private Key
 Create below configuration file `test.conf`:
-```json
+```properties
 [ req ]
 distinguished_name      = req_distinguished_name
 prompt                  = no
