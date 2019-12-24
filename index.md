@@ -8,3 +8,6 @@
 ### Scala
 - [Type Constructors, Higher Kinded Types etc.](scala/hkt.html)
 - [For Comprehensions - Syntactic sugar for flatMap/map](scala/forcomp.html)
+
+### Security
+- [OpenSSL Useful Commands](security/openssl_commands.html)
