@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
 title: Chandan's Log
-description: My collection of useful developer info & insights 
+description: My collection of useful developer quick reference guides 
 plugins:
   - jekyll-relative-links
 relative_links:
