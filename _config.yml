@@ -1,4 +1,6 @@
 theme: jekyll-theme-hacker
+title: Chandan's Log
+description: My collection of useful developer info & insights 
 plugins:
   - jekyll-relative-links
 relative_links:
