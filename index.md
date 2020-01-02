@@ -1,4 +1,4 @@
-## Chandan's Log
+## Topics
 
 ### Java
 - [Collections](java/collections.html)
