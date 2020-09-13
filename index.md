@@ -12,3 +12,4 @@
 ### Security
 - [Certificates in JVM applications](security/certs_in_jvm_apps.html)
 - [OpenSSL Commands](security/openssl_commands.html)
+- [SSL Resources](security/ssl_resources.html)
