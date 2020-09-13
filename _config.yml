@@ -14,3 +14,4 @@ include:
   - scala/hkt.md
   - security/openssl_commands.md
   - security/certs_in_jvm_apps.md
+  - security/ssl_resources.md
