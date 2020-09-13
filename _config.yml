@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
 title: Chandan's Log
-description: My collection of useful developer quick reference guides 
+description: Some useful quick reference guides 
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -13,3 +13,4 @@ include:
   - scala/forcomp.md
   - scala/hkt.md
   - security/openssl_commands.md
+  - security/certs_in_jvm_apps.md
