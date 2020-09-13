@@ -10,4 +10,5 @@
 - [For Comprehensions - Syntactic sugar for flatMap/map](scala/forcomp.html)
 
 ### Security
-- [OpenSSL Useful Commands](security/openssl_commands.html)
+- [Certificates in JVM applications](security/certs_in_jvm_apps.html)
+- [OpenSSL Commands](security/openssl_commands.html)
