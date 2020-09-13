@@ -7,13 +7,6 @@ The JKS can contain:
 * Client certificates
   * used in mTLS by server to check authenticity of the client
 
-## Keystore Formats
-* JKS is proprietary but is a defacto standard for certificate containers in JVM world
-* PKCS12 is a standard certificate container format
-
-## Certificate Formats
-https://www.ssls.com/knowledgebase/what-are-certificate-formats-and-what-is-the-difference-between-them/
-
 ## Keystore Commands
 
 ```sh
