@@ -3,8 +3,8 @@
 ![SSL Handshake](https://www.ssl.com/wp-content/uploads/2015/07/SSLTLS_handshake.png)
 
 ### More on SSL/TLS Handshake
-* [ssl-tls-handshake-overview](https://www.ssl.com/article/ssl-tls-handshake-overview/)<br>
-* [ssl-handshake-explained](https://medium.com/@kasunpdh/ssl-handshake-explained-4dabb87cdce)
+* [SSL/TLS Handshake Overview](https://www.ssl.com/article/ssl-tls-handshake-overview/)<br>
+* [SSL/TLS Handshake Explained](https://medium.com/@kasunpdh/ssl-handshake-explained-4dabb87cdce)
 
 ### Other SSL/TLS Resources
 * [Different certificate formats and the differences between them](https://www.ssls.com/knowledgebase/what-are-certificate-formats-and-what-is-the-difference-between-them/)
